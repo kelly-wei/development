@@ -34,7 +34,7 @@
 #Cards{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-auto-rows: 30vh;
+  grid-auto-rows: 40vh;
   padding-left: 50px;
   width: 60vw;
 }
